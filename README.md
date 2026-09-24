@@ -1,11 +1,25 @@
 # Maedeh Jebelli — Portfolio
 
-Personal portfolio website for Maedeh Jebelli, Geomatics Engineer / Geospatial Data Analyst.
+Personal portfolio website showcasing selected projects in Geomatics Engineering, GIS, Remote Sensing, Photogrammetry, and Geospatial Data Analysis.
 
-## Publish with GitHub Pages
-1. Create a GitHub repository (recommended name: `Maedeh-2000.github.io`).
-2. Upload all files and folders from this package to the repository root.
-3. In GitHub: **Settings → Pages → Build and deployment → Deploy from a branch**.
-4. Select **main** and **/(root)**, then Save.
+## Live Portfolio
 
-For a repository named `Maedeh-2000.github.io`, the site will be available at `https://maedeh-2000.github.io/` after deployment.
+🌐 https://maedeh-jebelli.github.io/Maedeh-portfolio/
+
+## Featured Projects
+
+- 3D Point Cloud Registration & Quality Assessment
+- Aerial Image Segmentation & Classification
+- Photogrammetry & Computer Vision
+- Remote Sensing Image Analysis
+- GIS Spatial Analysis
+
+## Technologies
+
+Python · MATLAB · ArcGIS Pro · GIS · Remote Sensing · Photogrammetry · Machine Learning · Computer Vision · Point Cloud Processing
+
+## Author
+
+**Maedeh Jebelli**
+
+GitHub: https://github.com/Maedeh-Jebelli
